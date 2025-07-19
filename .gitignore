@@ -1,0 +1,27 @@
+# Flutter dependency and build files
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.idea/
+android/.gradle/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# VS Code and IntelliJ settings
+.vscode/
+*.iml
+
+# SourceTree-specific (optional)
+*.orig
+*.rej
+
+# Other common ignores
+*.log
+*.tmp
+.DS_Store
